@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Action-Func-Delegates/1.0.0": {
+        "runtime": {
+          "Action-Func-Delegates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Action-Func-Delegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\bin\Debug\net6.0\Action-Func-Delegates.exe
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\bin\Debug\net6.0\Action-Func-Delegates.deps.json
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\bin\Debug\net6.0\Action-Func-Delegates.runtimeconfig.json
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\bin\Debug\net6.0\Action-Func-Delegates.dll
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\bin\Debug\net6.0\Action-Func-Delegates.pdb
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\Action-Func-Delegates.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\Action-Func-Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\Action-Func-Delegates.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\Action-Func-Delegates.AssemblyInfo.cs
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\Action-Func-Delegates.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\Action-Func-Delegates.dll
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\refint\Action-Func-Delegates.dll
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\Action-Func-Delegates.pdb
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\Action-Func-Delegates.genruntimeconfig.cache
+C:\Users\PC\source\repos\Action-Func-Delegates\Action-Func-Delegates\obj\Debug\net6.0\ref\Action-Func-Delegates.dll
